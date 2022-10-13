@@ -1,0 +1,12 @@
+
+:root {
+    /* Use For Main CTA Buttons */
+    --colorPrimary: #6046ff;    
+    /* Use for text on primary */
+    --colorOnPrimary: #f1efff;    
+    /* Use For Cards */
+    --colorSecondary: #994286;    
+    /* Use this sparingly */
+    --colorNeutral: #595959;    
+    --colorPmRed: #f91515;    
+}
